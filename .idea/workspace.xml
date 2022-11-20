@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165996a0-5358-4407-be79-7202251a6e69" name="Changes" comment="initial commit up to feign" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-cloud-config-server/src/test/java/git-localconfig-repo" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HOQR3H4UaR66copd6DHxVzDJb2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/erast/OneDrive/Desktop/Eclectics/In28Min&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;805878b2499350940c453e2ed7c3a895&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.currencyexchangeservice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erast\OneDrive\Desktop\Eclectics\In28Min" />
+      <recent name="C:\Users\erast\OneDrive\Desktop\Eclectics\In28Min\currency-exchange-service\currency-exchange-service\src\main\resources\db\migration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.currencyexchangeservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CurrencyExchangeServiceApplication8001">
+    <configuration name="CurrencyConversionServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-17.0.3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.currencyconversionservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="In28Min" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="In28Min" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-17.0.3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.currencyexchangeservice.CurrencyExchangeServiceApplication8000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.currencyexchangeservice.CurrencyExchangeServiceApplication8001" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.currencyexchangeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.limitsservice.LimitsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CurrencyConversionServiceApplication" />
+      <item itemvalue="Spring Boot.LimitsServiceApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8000" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8000" />
+        <item itemvalue="Application.CurrencyConversionServiceApplication" />
+        <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165996a0-5358-4407-be79-7202251a6e69" name="Changes" comment="" />
+      <created>1668153643680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668153643680</updated>
+      <workItem from="1668153647570" duration="15531000" />
+      <workItem from="1668181925728" duration="12072000" />
+      <workItem from="1668279829093" duration="1813000" />
+      <workItem from="1668281896006" duration="82000" />
+      <workItem from="1668282012609" duration="513000" />
+      <workItem from="1668282594532" duration="210000" />
+      <workItem from="1668282854997" duration="1934000" />
+      <workItem from="1668286484862" duration="301000" />
+      <workItem from="1668407576889" duration="20190000" />
+      <workItem from="1668695753116" duration="3774000" />
+      <workItem from="1668801096754" duration="670000" />
+      <workItem from="1668805841680" duration="81000" />
+      <workItem from="1668805950278" duration="185000" />
+      <workItem from="1668808062521" duration="103000" />
+      <workItem from="1668809167579" duration="74000" />
+      <workItem from="1668856892990" duration="100000" />
+      <workItem from="1668857483612" duration="96000" />
+      <workItem from="1668857692002" duration="104000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit up to feign">
+      <created>1668696265947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668696265947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit up to feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit up to feign" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/In28Min$CurrencyExchangeServiceApplication8000.ic" NAME="CurrencyExchangeServiceApplication8000 Coverage Results" MODIFIED="1668597215784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -39,7 +39,7 @@ public class currencyConversionServiceController {
     @GetMapping("/currency-converter-Feign/from/{from}/to/{to}/quantity/{quantity}")
     public currencyConversion convertCurrencyFeign(@PathVariable String from, @PathVariable String to,@PathVariable BigDecimal quantity) {
         currencyConversion response = currencyExchangeServiceProxy.retrieveExchangeValue(from, to);
-//       System.out.println("feign application  : "  + response);
+      System.out.println("feign application  : "  + response);
         return new currencyConversion(response.getId(), from, to, response.getConversion_multiple(), quantity,
                 quantity.multiply(response.getConversion_multiple()), response.getPort());
 
